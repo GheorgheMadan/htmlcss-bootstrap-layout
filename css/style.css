@@ -13,17 +13,19 @@ header span {
 
 /* regole main */
 [class^='container'] {
+    width: 90%;
+    margin: 0 auto;
     gap: 20px;
 }
 
 [class^='row'] {
-    border: dashed 1px red;
+    /* border: dashed 1px red; */
 }
 
 [class^='col'] {
     /* height: 100px; */
     padding: 20px;
     /* background-color: aquamarine; */
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
